@@ -5,7 +5,11 @@ export const Footer = () => {
         <div className="flex flex-wrap md:flex-nowrap md:flex-row md:justify-between gap-4 items-start md:items-center">
           <div className="w-[30%] logo flex items-start flex-col flex-wrap gap-4">
             <div className="flex items-center gap-2">
-              <img className="w-[28px]" src="public/logo.svg" alt="" />
+              <img
+                className="w-[28px]"
+                src="https://raw.githubusercontent.com/junnn6ix/src/refs/heads/main/assets/logo.svg"
+                alt=""
+              />
               <a
                 href="#"
                 className="md:text-xl sm:text-lg font-bold text-white hover:text-purple-700/70 duration-300 transition-all ease-in-out">

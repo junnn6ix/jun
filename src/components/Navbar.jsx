@@ -8,7 +8,11 @@ export const Navbar = () => {
       <div className="max-w-5xl mx-auto px-8">
         <div className="flex justify-between items-center h-20 sm:h-16">
           <div className="logo flex items-center justify-center gap-2">
-            <img className="w-[34px]" src="public/logo.svg" alt="" />
+            <img
+              className="w-[34px]"
+              src="https://raw.githubusercontent.com/junnn6ix/src/5af71f66ccac973bd3970ab62167d3f5c78efc67/assets/logo.svg"
+              alt=""
+            />
             <a
               href="#"
               className="md:text-2xl sm:text-xl font-bold text-white hover:text-purple-700/70 duration-300 transition-all ease-in-out">

@@ -33,7 +33,9 @@ export const About = () => {
                   handle="neckjun__"
                   status="Sleep"
                   contactText="Follow Me"
-                  avatarUrl="/assets/img/profile.png"
+                  avatarUrl="https://raw.githubusercontent.com/junnn6ix/src/refs/heads/main/assets/profile.png"
+                  miniAvatarUrl="https://raw.githubusercontent.com/junnn6ix/src/refs/heads/main/assets/profile-square.jpg"
+                  // avatarUrl="/assets/img/profile.png"
                   // miniAvatarUrl="/assets/img/profile_square.jpg"
                   // iconUrl="/assets/img/profile-square.jpg"
                   showUserInfo={true}
